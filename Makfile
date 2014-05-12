@@ -1,0 +1,20 @@
+flaflapBuggle: main.o game.o obstacles.o bonus.o collisions.o fichierScore.o
+	gcc main.o game.o obstacles.o bonus.o collisions.o fichierScore.o -o flaflapBuggle
+
+main.o: main.c game.h
+	gcc -c main.c
+
+game.o: game.c obstacles.h bonus.h collisions.h bonus.h fichierScore.h
+	gcc -c game.c
+
+obstacles.o: onbstacles.c obstacles.h
+	gcc -c obstacles.c
+
+bonus.o: bonus.c bonus.h
+	gcc -c bonus.c
+
+collisions.o: collisions.c collisions.h obstacles.h bonus.h
+	gcc -c collisions.c
+
+fichierScore.o: fichierScore.c fichierScore.h
+	gcc -c fichierScore.c

@@ -1,0 +1,473 @@
+# depslib dependency file v1.0
+1398533180 source:/home/quentin/Documents/CSH/Projet/Projet FlapFlap/main.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<math.h>
+	"obstacles.h"
+
+1398532187 source:/home/quentin/Documents/CSH/Projet/Projet FlapFlap/obstacles.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdlib.h>
+	"obstacles.h"
+
+1398524314 /home/quentin/Documents/CSH/Projet/Projet FlapFlap/obstacles.h
+
+1398989961 source:/home/kejji/allegrotest/FlapFlap/main.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<math.h>
+	"obstacles.h"
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<time.h>
+	"collisions.h"
+
+1398989502 /home/kejji/allegrotest/FlapFlap/obstacles.h
+
+1398989963 source:/home/kejji/allegrotest/FlapFlap/obstacles.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdlib.h>
+	"obstacles.h"
+
+1398906946 /home/kejji/allegrotest/FlapFlap/include/collisions.h
+
+1398943719 source:/home/kejji/allegrotest/FlapFlap/collisions.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1398947085 /home/kejji/allegrotest/FlapFlap/collisions.h
+
+1399245932 source:/home/quentin/Documents/CSH/Projet/ProjetFlapFlapV4 (1)/collisions.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"obstacles.h"
+	"bonus.h"
+
+1399246438 source:/home/quentin/Documents/CSH/Projet/ProjetFlapFlapV4 (1)/main.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<math.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<time.h>
+	"collisions.h"
+	"obstacles.h"
+	"bonus.h"
+
+1399221303 /home/quentin/Documents/CSH/Projet/ProjetFlapFlapV4 (1)/obstacles.h
+	"bonus.h"
+
+1399248808 /home/quentin/Documents/CSH/Projet/ProjetFlapFlapV4 (1)/collisions.h
+	"bonus.h"
+
+1399221351 source:/home/quentin/Documents/CSH/Projet/ProjetFlapFlapV4 (1)/obstacles.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<math.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"obstacles.h"
+	"collisions.h"
+	"bonus.h"
+
+1399249301 /home/quentin/Documents/CSH/Projet/ProjetFlapFlapV4 (1)/bonus.h
+	"collisions.h"
+
+1399245959 source:/home/quentin/Documents/CSH/Projet/ProjetFlapFlapV4 (1)/bonus.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdlib.h>
+
+1399221351 source:/home/quentin/Documents/CSH/Projet/ProjetFlapFlapV4 (2)/obstacles.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<math.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"obstacles.h"
+	"collisions.h"
+	"bonus.h"
+
+1399221303 /home/quentin/Documents/CSH/Projet/ProjetFlapFlapV4 (2)/obstacles.h
+	"bonus.h"
+
+1399289345 /home/quentin/Documents/CSH/Projet/ProjetFlapFlapV4 (2)/bonus.h
+	"collisions.h"
+
+1399248808 /home/quentin/Documents/CSH/Projet/ProjetFlapFlapV4 (2)/collisions.h
+	"bonus.h"
+
+1399288264 source:/home/quentin/Documents/CSH/Projet/ProjetFlapFlapV4 (2)/bonus.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdlib.h>
+
+1399287386 source:/home/quentin/Documents/CSH/Projet/ProjetFlapFlapV4 (2)/collisions.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"obstacles.h"
+	"bonus.h"
+
+1399287386 source:/home/quentin/Documents/CSH/Projet/ProjetFlapFlapV4 (2)/main.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<math.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<time.h>
+	"collisions.h"
+	"obstacles.h"
+	"bonus.h"
+
+1399289404 source:/home/lolita/Programmation/C/projet/ProjetFlapFlapV4/bonus.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdlib.h>
+
+1399287386 source:/home/lolita/Programmation/C/projet/ProjetFlapFlapV4/collisions.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"obstacles.h"
+	"bonus.h"
+
+1399221303 /home/lolita/Programmation/C/projet/ProjetFlapFlapV4/obstacles.h
+	"bonus.h"
+
+1399289345 /home/lolita/Programmation/C/projet/ProjetFlapFlapV4/bonus.h
+	"collisions.h"
+
+1399248808 /home/lolita/Programmation/C/projet/ProjetFlapFlapV4/collisions.h
+	"bonus.h"
+
+1399395147 source:/home/lolita/Programmation/C/projet/ProjetFlapFlapV4/main.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<math.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<time.h>
+	"collisions.h"
+	"obstacles.h"
+	"bonus.h"
+
+1399221351 source:/home/lolita/Programmation/C/projet/ProjetFlapFlapV4/obstacles.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<math.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"obstacles.h"
+	"collisions.h"
+	"bonus.h"
+
+1399664333 source:/home/quentin/Documents/CSH/Projet/ProjetFlapFlapV4 - 1/bonus.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdlib.h>
+
+1399668271 source:/home/quentin/Documents/CSH/Projet/ProjetFlapFlapV4 - 1/collisions.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"obstacles.h"
+	"bonus.h"
+
+1399664333 /home/quentin/Documents/CSH/Projet/ProjetFlapFlapV4 - 1/obstacles.h
+	"bonus.h"
+
+1399289345 /home/quentin/Documents/CSH/Projet/ProjetFlapFlapV4 - 1/bonus.h
+	"collisions.h"
+
+1399668205 /home/quentin/Documents/CSH/Projet/ProjetFlapFlapV4 - 1/collisions.h
+	"bonus.h"
+
+1399668157 source:/home/quentin/Documents/CSH/Projet/ProjetFlapFlapV4 - 1/main.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<math.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<time.h>
+	"collisions.h"
+	"obstacles.h"
+	"bonus.h"
+	"fichierScore.h"
+
+1399664333 source:/home/quentin/Documents/CSH/Projet/ProjetFlapFlapV4 - 1/obstacles.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<math.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"collisions.h"
+	"bonus.h"
+
+1399665612 source:/home/quentin/Documents/CSH/Projet/ProjetFlapFlapV4 - 1/fichierScore.c
+	<stdio.h>
+	<stdlib.h>
+
+1399664333 /home/quentin/Documents/CSH/Projet/ProjetFlapFlapV4 - 1/fichierScore.h
+
+1399918245 source:/home/quentin/Documents/CSH/Projet/ProjetFlapFlap v finale/bonus.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdlib.h>
+
+1399904176 source:/home/quentin/Documents/CSH/Projet/ProjetFlapFlap v finale/collisions.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"obstacles.h"
+	"bonus.h"
+
+1399882489 /home/quentin/Documents/CSH/Projet/ProjetFlapFlap v finale/obstacles.h
+	"bonus.h"
+
+1399918132 /home/quentin/Documents/CSH/Projet/ProjetFlapFlap v finale/bonus.h
+	"collisions.h"
+
+1399882489 /home/quentin/Documents/CSH/Projet/ProjetFlapFlap v finale/collisions.h
+	"bonus.h"
+
+1399903804 source:/home/quentin/Documents/CSH/Projet/ProjetFlapFlap v finale/fichierScore.c
+	<stdio.h>
+	<stdlib.h>
+
+1399920997 source:/home/quentin/Documents/CSH/Projet/ProjetFlapFlap v finale/main.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<math.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<time.h>
+	"collisions.h"
+	"obstacles.h"
+	"bonus.h"
+	"fichierScore.h"
+	"game.h"
+
+1399664333 /home/quentin/Documents/CSH/Projet/ProjetFlapFlap v finale/fichierScore.h
+
+1399921329 source:/home/quentin/Documents/CSH/Projet/ProjetFlapFlap v finale/obstacles.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<math.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"collisions.h"
+	"bonus.h"
+
+1399877168 /home/quentin/Documents/CSH/Projet/ProjetFlapFlap v finale/game.h
+
+1399918132 source:/home/quentin/Documents/CSH/Projet/ProjetFlapFlap v finale/game.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<math.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<time.h>
+	"collisions.h"
+	"obstacles.h"
+	"bonus.h"
+	"fichierScore.h"
+
+1399895276 source:/home/quentin/Dropbox/ProjetC/ProjetFlapFlap v finale/bonus.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdlib.h>
+
+1399904176 source:/home/quentin/Dropbox/ProjetC/ProjetFlapFlap v finale/collisions.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"obstacles.h"
+	"bonus.h"
+
+1399882489 /home/quentin/Dropbox/ProjetC/ProjetFlapFlap v finale/obstacles.h
+	"bonus.h"
+
+1399895276 /home/quentin/Dropbox/ProjetC/ProjetFlapFlap v finale/bonus.h
+	"collisions.h"
+
+1399882489 /home/quentin/Dropbox/ProjetC/ProjetFlapFlap v finale/collisions.h
+	"bonus.h"
+
+1399903804 source:/home/quentin/Dropbox/ProjetC/ProjetFlapFlap v finale/fichierScore.c
+	<stdio.h>
+	<stdlib.h>
+
+1399903381 source:/home/quentin/Dropbox/ProjetC/ProjetFlapFlap v finale/game.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<math.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<time.h>
+	"collisions.h"
+	"obstacles.h"
+	"bonus.h"
+	"fichierScore.h"
+
+1399664333 /home/quentin/Dropbox/ProjetC/ProjetFlapFlap v finale/fichierScore.h
+
+1399877250 source:/home/quentin/Dropbox/ProjetC/ProjetFlapFlap v finale/main.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<math.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<time.h>
+	"collisions.h"
+	"obstacles.h"
+	"bonus.h"
+	"fichierScore.h"
+	"game.h"
+
+1399877168 /home/quentin/Dropbox/ProjetC/ProjetFlapFlap v finale/game.h
+
+1399903754 source:/home/quentin/Dropbox/ProjetC/ProjetFlapFlap v finale/obstacles.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<math.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"collisions.h"
+	"bonus.h"
+
